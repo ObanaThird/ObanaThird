@@ -38,9 +38,5 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ObanaThird&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ObanaThird&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
-
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
