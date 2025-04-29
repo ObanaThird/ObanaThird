@@ -1,4 +1,4 @@
-<h1 align="left"><i>Olá!</h1>
+<h1 align="left"><i>👋 Olá!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Back-End Solutions</h2>
+<h1 align="left">Back-End Solutions</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Front-End Solutions</h2>
+<h1 align="left">Front-End Solutions</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2></i>
+<h1 align="left">Tech Stack</h1></i>
 
 ###
 
