@@ -2,11 +2,10 @@
 
 <a href="https://github.com/ObanaThird/saudacao-em-c">Saudação em C</a> foi um projeto curto, afim apenas de exercitar conhecimentos de lógica de programação, a estrutura da linguagem e criar o gif exibido acima com auxílio de softwares de edição de vídeo. Projetado visando separar diferentes responsabilidades do código em <i>Interface</i>, <i>Implementações</i> e o arquivo que contém a <i>Lógica Principal</i>.
 
+<a href="">P1WEBII</a> é uma API RESTful, desenvolvida em PHP nativo, oferece uma solução de back-end robusta para o gerenciamento de produtos e usuários. Sua principal finalidade é prover um conjunto de endpoints para realizar operações CRUD (Create, Read, Update, Delete) de forma segura e eficiente. A arquitetura, baseada no padrão MVC, garante a separação de responsabilidades e a manutenibilidade do código. Um dos seus diferenciais é o sistema de logging, que registra automaticamente todas as operações de escrita (criação, atualização e exclusão), assegurando um histórico completo e auditável das alterações na base de dados.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ObanaThird&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=ObanaThird&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+
   # 📬 Contato #
 
   <a href="https://www.linkedin.com/in/akemi-obana/" target="_blank">
