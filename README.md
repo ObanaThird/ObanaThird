@@ -17,7 +17,7 @@
 <a href="https://github.com/ObanaThird/saudacao-em-c" target="_blank">Saudação em C</a> foi um projeto curto, afim apenas de exercitar conhecimentos de lógica de programação, a estrutura da linguagem e criar o <b>gif exibido acima</b> com auxílio de softwares de edição de vídeo. Projetado visando separar diferentes responsabilidades do código em <i>Interface</i>, <i>Implementações</i> e o arquivo que contém a <i>Lógica Principal</i>.
 
 ## 🛠 Conheça os projetos em que estou trabalhando atualmente ##
-<a href="https://github.com/ObanaThird/validr-FATEC" target="_blank">validr-FATEC</a> é uma solução definitiva para a gestão de estágios nas FATECs, <i> motivada pela experiência real de perda de horas </i> por falhas burocráticas. O propósito é garantir que nenhum aluno seja prejudicado por falta de rastreabilidade, criando uma autoridade central de auditoria e geração de documentos oficiais imutáveis.
+<a href="https://github.com/ObanaThird/validrFatec" target="_blank">validr-FATEC</a> é uma solução definitiva para a gestão de estágios nas FATECs, <i> motivada pela experiência real de perda de horas </i> por falhas burocráticas. O propósito é garantir que nenhum aluno seja prejudicado por falta de rastreabilidade, criando uma autoridade central de auditoria e geração de documentos oficiais imutáveis.
 
 <hr/>
 
